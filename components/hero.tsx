@@ -22,7 +22,7 @@ export function Hero() {
         playsInline
         className="absolute inset-0 -z-20 size-full object-cover opacity-60"
       >
-        <source src="/images/drone-footage.mp4" type="video/mp4" />
+        <source src="/McLaughlin-Contracting-Website/images/drone-footage.mp4" type="video/mp4" />
       </video>
       <div className="absolute inset-0 -z-19 bg-black/35" />
 

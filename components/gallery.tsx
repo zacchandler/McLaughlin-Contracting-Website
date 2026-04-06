@@ -5,27 +5,27 @@ import { BlurFade } from "@/components/ui/blur-fade";
 const projects = [
   {
     label: "Roof Replacement",
-    image: "/images/roof-replacement.png",
+    image: "/McLaughlin-Contracting-Website/images/roof-replacement.png",
   },
   {
     label: "Skylight Install",
-    image: "/images/skylight-install.png",
+    image: "/McLaughlin-Contracting-Website/images/skylight-install.png",
   },
   {
     label: "Siding Project",
-    image: "/images/siding-project.png",
+    image: "/McLaughlin-Contracting-Website/images/siding-project.png",
   },
   {
     label: "Gutter System",
-    image: "/images/gutter-system.png",
+    image: "/McLaughlin-Contracting-Website/images/gutter-system.png",
   },
   {
     label: "Chimney Flashing",
-    image: "/images/chimney-flashing.png",
+    image: "/McLaughlin-Contracting-Website/images/chimney-flashing.png",
   },
   {
     label: "Storm Repair",
-    image: "/images/storm-repair.png",
+    image: "/McLaughlin-Contracting-Website/images/storm-repair.png",
   },
 ];
 
